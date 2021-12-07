@@ -1,0 +1,39 @@
+{
+  "_from": "@cloudflare/cloudflare-brand-assets@*",
+  "_id": "@cloudflare/cloudflare-brand-assets@4.7.7",
+  "_inBundle": false,
+  "_integrity": "sha512-L4EqYWkvse0265YIzraYUlkvvjW7Cr5LELiAiBStctENBoqRhMuR4Ff2X4g/r1BwsQ7S0LTECwLLbM6BNzhv3g==",
+  "_location": "/@cloudflare/cloudflare-brand-assets",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@cloudflare/cloudflare-brand-assets@*",
+    "name": "@cloudflare/cloudflare-brand-assets",
+    "escapedName": "@cloudflare%2fcloudflare-brand-assets",
+    "scope": "@cloudflare",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@cloudflare/cloudflare-brand-assets/-/cloudflare-brand-assets-4.7.7.tgz",
+  "_shasum": "0618d0671c32d68033e1291297c7d4a80ada7fdb",
+  "_spec": "@cloudflare/cloudflare-brand-assets@*",
+  "_where": "/home/alexa/alexa-brand-assets",
+  "bugs": {
+    "url": "https://github.com/cloudflare/cloudflare-brand-assets/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cloudflare brand assets.",
+  "homepage": "https://github.com/cloudflare/cloudflare-brand-assets#readme",
+  "name": "@cloudflare/cloudflare-brand-assets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudflare/cloudflare-brand-assets.git"
+  },
+  "version": "4.7.7"
+}
